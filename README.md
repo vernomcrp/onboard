@@ -54,14 +54,14 @@ All employees need access to Waffle.io for issue tracking.
   - Programming Elixir 1.2 book:
     - https://pragprog.com/book/elixir12/programming-elixir-1-2
   - Phoenix Framework:
-   - http://www.phoenixframework.org/docs/overview
+    - http://www.phoenixframework.org/docs/overview
   - React:
-   - http://facebook.github.io/react/docs/getting-started.html
+    - http://facebook.github.io/react/docs/getting-started.html
   - React Native:
-   - https://facebook.github.io/react-native/
+    - https://facebook.github.io/react-native/
  - Git:
-   - https://github.com/aanand/git-up
-   - https://git-scm.com/docs/gittutorial
+    - https://github.com/aanand/git-up
+    - https://git-scm.com/docs/gittutorial
  - Docker:
    - https://docs.docker.com/mac/
    - https://github.com/docker/docker
