@@ -46,6 +46,7 @@ All employees need access to Waffle.io for issue tracking.
   - https://github.com/elixir-lang/elixir-tmbundle
   - https://github.com/babel/babel-sublime
   - http://elixir-lang.org/learning.html
+  - https://elixirschool.com
   - https://www.hamsterpad.com/chat/elixir-lang
   - https://twitter.com/josevalim
   - https://github.com/josevalim
