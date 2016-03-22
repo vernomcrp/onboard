@@ -82,8 +82,8 @@ All employees need access to Waffle.io for issue tracking.
 
 # Good Videos to watch
 
- - https://www.youtube.com/watch?v=wEQawgkCMOU
- - https://www.periscope.tv/w/1lDxLElQzLZKm
+ - [Jack Dorsey at Startup School 2013](https://www.youtube.com/watch?v=wEQawgkCMOU)
+ - [Twitter's 10th Birthday](https://www.periscope.tv/w/1lDxLElQzLZKm)
 
 # FAQ
 
