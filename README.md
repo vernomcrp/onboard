@@ -80,6 +80,11 @@ All employees need access to Waffle.io for issue tracking.
 
  - [The Checklist Manifesto: How to Get Things Right](http://www.amazon.com/The-Checklist-Manifesto-Things-Right/dp/0312430000)
 
+# Good Videos to watch
+
+ - https://www.youtube.com/watch?v=wEQawgkCMOU
+ - https://www.periscope.tv/w/1lDxLElQzLZKm
+
 # FAQ
 
 ### Why Meshable, when the product is called getWiFi?
